@@ -1,2 +1,1 @@
-# seattle_bpsa
-Seattle BPSA
+# Seattle BPSA
